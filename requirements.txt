@@ -1,0 +1,8 @@
+streamlit
+pinecone-client
+sentence-transformers
+PyPDF2
+reportlab
+python-dotenv
+numpy
+tqdm
