@@ -1,3 +1,10 @@
+ **Live App:** https://mini-search-engine-bxsdfb6weuqn4bnz6lgweu.streamlit.app/ (fully working — try it now!)
+ **Source Code:** https://github.com/MSaadHassan9955/mini-search-engine
+
+**Author:** Muhammad Saad Hassan
+
+
+
 #  Mini Search Engine — Semantic PDF Search with Streamlit + Pinecone
 
 A Google-like semantic search application. Upload PDF documents, and search them
