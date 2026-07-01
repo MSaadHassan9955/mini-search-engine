@@ -1,5 +1,5 @@
 streamlit
-pinecone-client
+pinecone==5.0.1
 sentence-transformers
 PyPDF2
 reportlab
